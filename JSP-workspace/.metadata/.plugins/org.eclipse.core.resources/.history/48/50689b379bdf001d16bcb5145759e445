@@ -1,0 +1,5 @@
+package com.mybatis.vo;
+
+public class MemberVO {
+
+}
